@@ -1,4 +1,4 @@
-# IP Reputation Enrichment Tool (Free Tier)
+# IP Reputation Enrichment Tool 
 
 A Python + Excel based automation tool that enriches IP addresses using free-tier
 threat intelligence sources such as AbuseIPDB and VirusTotal.
